@@ -1,0 +1,16 @@
+C:\Users\kalpeshk\source\repos\TddUnitTesting\bin\Debug\net5.0\TddUnitTesting.exe
+C:\Users\kalpeshk\source\repos\TddUnitTesting\bin\Debug\net5.0\TddUnitTesting.deps.json
+C:\Users\kalpeshk\source\repos\TddUnitTesting\bin\Debug\net5.0\TddUnitTesting.runtimeconfig.json
+C:\Users\kalpeshk\source\repos\TddUnitTesting\bin\Debug\net5.0\TddUnitTesting.runtimeconfig.dev.json
+C:\Users\kalpeshk\source\repos\TddUnitTesting\bin\Debug\net5.0\TddUnitTesting.dll
+C:\Users\kalpeshk\source\repos\TddUnitTesting\bin\Debug\net5.0\ref\TddUnitTesting.dll
+C:\Users\kalpeshk\source\repos\TddUnitTesting\bin\Debug\net5.0\TddUnitTesting.pdb
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.csproj.AssemblyReference.cache
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.AssemblyInfoInputs.cache
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.AssemblyInfo.cs
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.dll
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\ref\TddUnitTesting.dll
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.pdb
+C:\Users\kalpeshk\source\repos\TddUnitTesting\obj\Debug\net5.0\TddUnitTesting.genruntimeconfig.cache
